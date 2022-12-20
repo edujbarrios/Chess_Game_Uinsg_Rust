@@ -1,2 +1,2 @@
-# Chess_Game_Uinsg_Rust
+# Chess_Game_Using_Rust
 Chess game implementation using Rust
